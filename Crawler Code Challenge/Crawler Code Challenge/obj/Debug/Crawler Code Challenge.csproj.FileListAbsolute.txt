@@ -1,0 +1,7 @@
+C:\Users\Ammanuel\source\repos\CSharpForBeginners\Crawler Code Challenge\Crawler Code Challenge\bin\Debug\Crawler Code Challenge.exe.config
+C:\Users\Ammanuel\source\repos\CSharpForBeginners\Crawler Code Challenge\Crawler Code Challenge\bin\Debug\Crawler Code Challenge.exe
+C:\Users\Ammanuel\source\repos\CSharpForBeginners\Crawler Code Challenge\Crawler Code Challenge\bin\Debug\Crawler Code Challenge.pdb
+C:\Users\Ammanuel\source\repos\CSharpForBeginners\Crawler Code Challenge\Crawler Code Challenge\obj\Debug\Crawler Code Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Ammanuel\source\repos\CSharpForBeginners\Crawler Code Challenge\Crawler Code Challenge\obj\Debug\Crawler Code Challenge.exe
+C:\Users\Ammanuel\source\repos\CSharpForBeginners\Crawler Code Challenge\Crawler Code Challenge\obj\Debug\Crawler Code Challenge.pdb
+C:\Users\Ammanuel\source\repos\CSharpForBeginners\Crawler Code Challenge\Crawler Code Challenge\obj\Debug\Crawler Code Challenge.csprojAssemblyReference.cache
